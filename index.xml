@@ -5,12 +5,28 @@
     <link>https://karnigili.github.io/</link>
       <atom:link href="https://karnigili.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Gili Karni</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 07 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 10 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://karnigili.github.io/images/pineapple_hu5b07a192865bad129906f242ddda4664_76028_512x512_fill_lanczos_center_2.png</url>
       <title>Gili Karni</title>
       <link>https://karnigili.github.io/</link>
     </image>
+    
+    <item>
+      <title>A Cortical Model Examining Mismatch Negativity Deficits Under Schizophrenia-Linked Variants</title>
+      <link>https://karnigili.github.io/publication/bernstein2020/</link>
+      <pubDate>Thu, 10 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://karnigili.github.io/publication/bernstein2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Effect of Alterations of Schizophrenia-Associated Genes on Gamma Band Oscillations.</title>
+      <link>https://karnigili.github.io/publication/gamma/</link>
+      <pubDate>Thu, 10 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://karnigili.github.io/publication/gamma/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Cortical Model Examining Mismatch Negativity Deficits Under Schizophrenia-Linked Variants</title>
