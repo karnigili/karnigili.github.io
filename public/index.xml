@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gili Karni</title>
+    <link>https://karnigili.github.io/</link>
+      <atom:link href="https://karnigili.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gili Karni</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 10 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://karnigili.github.io/images/pineapple_hu5b07a192865bad129906f242ddda4664_76028_512x512_fill_lanczos_center_2.png</url>
+      <title>Gili Karni</title>
+      <link>https://karnigili.github.io/</link>
+    </image>
+    
+    <item>
+      <title>A Cortical Model Examining Mismatch Negativity Deficits Under Schizophrenia-Linked Variants</title>
+      <link>https://karnigili.github.io/publication/bernstein2020/</link>
+      <pubDate>Thu, 10 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://karnigili.github.io/publication/bernstein2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Effect of Alterations of Schizophrenia-Associated Genes on Gamma Band Oscillations.</title>
+      <link>https://karnigili.github.io/publication/gamma/</link>
+      <pubDate>Thu, 10 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://karnigili.github.io/publication/gamma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Cortical Model Examining Mismatch Negativity Deficits Under Schizophrenia-Linked Variants</title>
+      <link>https://karnigili.github.io/publication/ocns2020/</link>
+      <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://karnigili.github.io/publication/ocns2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Cortical Model Examining Mismatch Negativity Deficits Under Schizophrenia-Linked Variants</title>
+      <link>https://karnigili.github.io/publication/neuromatch1/</link>
+      <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://karnigili.github.io/publication/neuromatch1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The effect of alterations of schizophrenia-associated genes on gamma-band auditory steady-state responses</title>
+      <link>https://karnigili.github.io/publication/ocns2019/</link>
+      <pubDate>Fri, 07 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://karnigili.github.io/publication/ocns2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Classifying ADHD from Healthy Controls using LSTMs with rs-fMRI Data</title>
+      <link>https://karnigili.github.io/project/adhd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://karnigili.github.io/project/adhd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Curiosity-Driven Learning with OpenAI and Keras</title>
+      <link>https://karnigili.github.io/project/curiosity-driven-rl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://karnigili.github.io/project/curiosity-driven-rl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identifying Resting-State Networks from fMRI Data Using ICAs</title>
+      <link>https://karnigili.github.io/project/fmri-ica/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://karnigili.github.io/project/fmri-ica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Policy Gradient Reinforcement Learning with Keras</title>
+      <link>https://karnigili.github.io/project/policy-gradient/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://karnigili.github.io/project/policy-gradient/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulating Biological Neural Networks with NetPyNE</title>
+      <link>https://karnigili.github.io/project/netpyne/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://karnigili.github.io/project/netpyne/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What Can Schizophrenia Tell Us About How the Brain Predicts the Future?</title>
+      <link>https://karnigili.github.io/project/capstone/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://karnigili.github.io/project/capstone/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
