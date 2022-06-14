@@ -5,12 +5,20 @@
     <link>https://karnigili.github.io/author/gili-karni/</link>
       <atom:link href="https://karnigili.github.io/author/gili-karni/index.xml" rel="self" type="application/rss+xml" />
     <description>Gili Karni</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 07 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://karnigili.github.io/author/gili-karni/avatar_hue0c080d7c2a6fef8b830ce443da3965c_38160_270x270_fill_q90_lanczos_center.JPG</url>
+      <url>https://karnigili.github.io/images/pineapple_hu5b07a192865bad129906f242ddda4664_76028_512x512_fill_lanczos_center_2.png</url>
       <title>Gili Karni</title>
       <link>https://karnigili.github.io/author/gili-karni/</link>
     </image>
+    
+    <item>
+      <title>A Rational Information Gathering Account of Infant Exploratory Behavior</title>
+      <link>https://karnigili.github.io/publication/novelty/</link>
+      <pubDate>Tue, 07 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://karnigili.github.io/publication/novelty/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
